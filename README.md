@@ -5,4 +5,4 @@
 ##### required links
 Elastic Beanstalk: http://udagram-elogod-project-dev.us-east-1.elasticbeanstalk.com/
 GitHub Repo: https://github.com/ELOGOD/udagram_udacity_project.git
-Link to testes image_url: https://i.pinimg.com/736x/f9/96/8d/f9968df268c7dab39bef20cff0a058cf.jpg
+Link to test image_url: https://i.pinimg.com/736x/f9/96/8d/f9968df268c7dab39bef20cff0a058cf.jpg
